@@ -67,9 +67,3 @@ Experienced across **banking, e-commerce, and enterprise platforms**, with a str
 🤝 *Open to collaborations & full-stack opportunities*
 
 ---
-
-If you want, I can also:
-
-* ✨ Make a **more visual README** with badges & stats
-* 🧩 Customize it for **recruiters** or **FAANG-style profiles**
-* 📊 Add **GitHub stats, streaks, and contribution graphs**
